@@ -1,0 +1,171 @@
+body{
+    background-image: url( 5bd320d590bcf-wallpaper-preview.jpg );
+    background-size: cover;
+}
+
+h3{
+    font-size: 20px;
+    color:  rgba(218, 200, 100, 0.849);
+    display: inline-block;
+}
+
+ul{
+    list-style-type: none;
+    display: inline;
+    padding: 0% 50% 0% 0%;
+}
+
+.mm{
+    display: inline-block;
+    padding-left: 20px;
+    color: white;
+} 
+
+.ll{
+    text-decoration: none;
+    color: rgb(218, 200, 100, 0.849);
+}
+
+li :hover {
+    color: rgba(218, 200, 100, 0.849); ;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+ 
+.test{
+    display: inline;
+color:white;
+border-radius: 10px;
+border: solid rgba(218, 200, 100, 0.849);
+
+}
+
+._test2{
+display: inline;
+background-color:rgba(218, 200, 100, 0.849);
+border-radius: 10px;
+border: solid rgba(218, 200, 100, 0.849);
+}
+
+
+.welcome{
+     font-size: 70px;
+     color: rgba(218, 200, 100, 0.849);
+    margin:  100px 25px 0px 100px ;
+ }
+
+ .world{
+     font-size: 60px;
+     color: black;
+     margin: 0px 25px 140px 150px ;
+ }
+
+ .xy{
+     font-size: 20px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: bold;
+     color: yellow;
+     margin: 0px 100px 10px 100px ;
+     display: inline-block;
+     text-shadow: 0px 0px maroon;
+ }
+ 
+ .join{
+     display: block;
+     background-color: rgba(218, 200, 100, 0.849);
+     margin:10px 0px 20px 120px;
+     color: black;
+     border: rgba(218, 200, 100, 0.849);
+     border-radius: 5px;
+     width: 120px;
+     height: 30px;
+ }
+
+ div{
+     display: block;
+     background-color: black;
+
+     position: absolute;
+     bottom: 30%;     
+     left : 70%;
+     border-radius: 10px;
+ }
+
+ .log{
+     display: inline-block;
+     background-color: rgba(218, 200, 100, 0.849) ;
+     color: white;
+     width: 200px;
+     height: 30px;
+     font-size: 20px;
+     margin: 25px 20px 20px 35px ;
+     border-radius: 5px;
+ }
+
+ .mail{
+     display:block;
+     background-color: black;
+     width: 200px;
+     height: 30px;
+     margin: 0px 10px 10px 35px;
+     border-top: none;
+     border-left: none;
+     border-right: none;
+     border-width: rgba(218, 200, 100, 0.849);
+ }
+ 
+ .password{
+    display:block;
+    background-color: black;
+    width: 200px;
+    height: 30px;
+    margin: 0px 10px 20px 35px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-width: rgba(218, 200, 100, 0.849);
+ }
+
+ .in{
+     display: block;
+     background-color: rgba(218, 200, 100, 0.849);
+     color: black;
+     width: 200px ;
+     height: 30px ;
+     font-size: 20px ;
+     margin: 0px 10px 20px 35px ;
+     border-radius: 5px ;
+ }
+
+ .para{
+     display: block;
+     color: darkgrey;
+     font-size: 15px;
+     margin: 0px 10px 0px 10px;
+     padding: 10px 35px 0px 35px;
+ }
+
+ .gr{
+    display: block;
+    color: darkgrey;
+    font-size: 15px;
+    margin: 0px 10px 0px 55px;
+    padding: 10px 35px 0px 35px;
+}
+
+ .lin{
+     text-decoration:none; 
+     color: rgba(218, 200, 100, 0.849);
+ }
+
+ .with{
+    display: block;
+    color: darkgrey;
+    font-size: 15px;
+    margin: 0px 20px 0px 60px;
+    padding: 10px 35px 0px 35px;
+ }
